@@ -3,7 +3,7 @@
 ;; Filename: frame-cmds.el
 ;; Description: Frame and window commands (interactive functions).
 ;; Author: Drew Adams
-;; Maintainer: Drew Adams (concat "drew.adams" "@" "oracle" ".com")
+;; Maintainer: Drew Adams "drew.adams" "at" "oracle" ".com"
 ;; Copyright (C) 1996-2018, Drew Adams, all rights reserved.
 ;; Created: Tue Mar  5 16:30:45 1996
 ;; Version: 0
